@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using TheJosephusProblemTDD;
 
 namespace TheJosephusProblem.tests
 {
@@ -11,6 +12,9 @@ namespace TheJosephusProblem.tests
             var killingInterval = 3;
             var numberOfPeople = 10;
             var expectedLastPersonAlive = 4;
+            var lastPersonStanding = new LastPersonStanding();
+
+            var lastOneAliveResult = lastPersonStanding.LastPersonStanding(numberOfPeople, killingInterval);
         }
     }
 }
