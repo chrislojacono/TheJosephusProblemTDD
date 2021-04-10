@@ -19,18 +19,13 @@ namespace TheJosephusProblemTDD
                 {
                     if(i > peopleToLoopOver.Count - 1)
                     {
-                        killingInterval = i - peopleToLoopOver.Count + 1;
+                        killingInterval = i % peopleToLoopOver.Count + 1;
                         break;
                     }
                     peopleToLoopOver.RemoveAt(i);
-
                 }
-
             }
-            var lastGuyStanding = peopleToLoopOver[0];
-
-
-            return lastGuyStanding;
+            return peopleToLoopOver[0];
         }
     }
 }
