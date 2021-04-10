@@ -6,9 +6,9 @@ namespace TheJosephusProblemTDD
 {
     public class LastPersonStanding
     {
-        public int LastPersonStanding(int numberOfPeople, int killingInterval)
+        public int JosephusCalculator(int numberOfPeople, int killingInterval)
         {
-
+            return 1;
         }
     }
 }
