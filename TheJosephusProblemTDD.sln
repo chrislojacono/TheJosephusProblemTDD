@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheJosephusProblemTDD", "TheJosephusProblemTDD\TheJosephusProblemTDD.csproj", "{3F31D3E7-0474-44D0-B4DD-521506D3D099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheJosephusProblem.tests", "TheJosephusProblem.tests\TheJosephusProblem.tests.csproj", "{F55E81E5-FDEF-437A-BD97-8715966C6480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F31D3E7-0474-44D0-B4DD-521506D3D099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F31D3E7-0474-44D0-B4DD-521506D3D099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F31D3E7-0474-44D0-B4DD-521506D3D099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F31D3E7-0474-44D0-B4DD-521506D3D099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55E81E5-FDEF-437A-BD97-8715966C6480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55E81E5-FDEF-437A-BD97-8715966C6480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55E81E5-FDEF-437A-BD97-8715966C6480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55E81E5-FDEF-437A-BD97-8715966C6480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6BC9A07-B2BE-4BF7-A453-678533B92D40}
+	EndGlobalSection
+EndGlobal
