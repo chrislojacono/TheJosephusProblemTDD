@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.exe
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.deps.json
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.dll
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\bin\Debug\netcoreapp3.1\TheJosephusProblemTDD.pdb
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.dll
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.pdb
+C:\Users\cloja\source\repos\Back-End\TheJosephusProblemTDD\TheJosephusProblemTDD\obj\Debug\netcoreapp3.1\TheJosephusProblemTDD.genruntimeconfig.cache

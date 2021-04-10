@@ -15,6 +15,8 @@ namespace TheJosephusProblem.tests
             var lastPersonStanding = new LastPersonStanding();
 
             var lastOneAliveResult = lastPersonStanding.JosephusCalculator(numberOfPeople, killingInterval);
+
+            Assert.Equal(expectedLastPersonAlive, lastOneAliveResult);
         }
     }
 }
