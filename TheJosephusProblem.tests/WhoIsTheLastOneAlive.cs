@@ -18,5 +18,18 @@ namespace TheJosephusProblem.tests
 
             Assert.Equal(expectedLastPersonAlive, lastOneAliveResult);
         }
+
+        [Fact]
+        public void Given_7_people_and_an_interval_of_2_the_last_one_should_be_7()
+        {
+            var killingInterval = 2;
+            var numberOfPeople = 7;
+            var expectedLastPersonAlive = 7;
+            var lastPersonStanding = new LastPersonStanding();
+
+            var lastOneAliveResult = lastPersonStanding.JosephusCalculator(numberOfPeople, killingInterval);
+
+            Assert.Equal(expectedLastPersonAlive, lastOneAliveResult);
+        }
     }
 }
